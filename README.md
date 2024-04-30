@@ -68,3 +68,4 @@ This repository showcases my projects and the skills I'm developing. I hope it h
 ## Projects
 - Detection Lab
 - SOC Automation Project
+l;,,
