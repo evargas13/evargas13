@@ -34,12 +34,12 @@ This repository showcases my projects and the skills I'm developing. I hope it h
     <!-- <img src="https://img.shields.io/badge/-Zeek-777BB4?&style=for-the-badge&logo=Zeek&logoColor=white" /> -->
 </div>
 
-### Endpoint
-<div>
+### Endpoint 
+
     <img src="https://img.shields.io/badge/-Carbon_Black_Cloud-0C0A00?&style=for-the-badge&logo=Carbon+Black&logoColor=white" />
    <!-- <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /> -->
    <!-- <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" /> -->
-</div>
+
 
 ### SIEM
 <div>
@@ -56,16 +56,17 @@ This repository showcases my projects and the skills I'm developing. I hope it h
 </div> -->
 
 ## Certifications
-<div>
-<img src="https://img.shields.io/badge/-Security%2B-FF0000?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-<img src="https://img.shields.io/badge/-ISC2_CC_Certified-006400?&style=for-the-badge&logo=ISC2&logoColor=white" />    
+
+[![ISC2 CC Certified](https://img.shields.io/badge/-ISC2_CC_Certified-006400?&style=for-the-badge&logo=ISC2&logoColor=white)](https://www.credly.com/badges/e999d3d7-c809-4505-9e27-983e5c02d025/linked_in_profile)
+  
+
+
 <!-- <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" /> -->
 <!-- <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> -->
-</div>
+
 
 ## Projects
 - Detection Lab
 - SOC Automation Project
-l;,,
