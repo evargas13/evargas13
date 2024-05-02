@@ -1,6 +1,4 @@
 # Hello, I'm Edgar
-<a href="https://linkedin.com/in/edgar-vargas-alpizar/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
 I got into technology through games like Prince of Persia and Tetris in the 90s. Movies like Hackers and Swordfish inspired me to dive into computers, eventually leading me to Cybersecurity and Ethical Hacking.
 
 I started with computer configuration and support studies alongside English. This landed me a full-time role in a Call Center, where I honed my technical and customer service skills.
