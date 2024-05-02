@@ -1,18 +1,18 @@
 # Hello, I'm Edgar
 <a href="https://linkedin.com/in/edgar-vargas-alpizar/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 
-My journey with technology began with my fascination for games like Prince of Persia and Tetris back in the 90s. Then, inspired by movies like Hackers and Swordfish, I found my passion in the world of computers, later discovering my interest in Cybersecurity and Ethical Hacking.
+I got into technology through games like Prince of Persia and Tetris in the 90s. Movies like Hackers and Swordfish inspired me to dive into computers, eventually leading me to Cybersecurity and Ethical Hacking.
 
-My professional path started with studies in computer configuration and support and English while balancing part-time work at a meat market. This led me to a full-time role in a Call Center, honing my technical support and customer service skills.
+I started with computer configuration and support studies alongside English. This landed me a full-time role in a Call Center, where I honed my technical and customer service skills.
 
-Freelancing in computer repairs and network cabling expanded my expertise, preparing me for roles where I worked extensively with Windows Servers, Networks, MS SQL, and various administration tools including Windows SCCM, Manage Engine Service Desk Plus, Bitdefender Central, Nortel, Avaya IP Phones, and Nice Call Center administrator.
+Freelancing in computer repairs and network setup broadened my skills, allowing me to work extensively with Windows Servers, Networks, MS SQL, and various administration tools like Windows SCCM, Manage Engine Service Desk Plus, Bitdefender Central, Nortel, Avaya IP Phones, and Nice Call Center systems.
 
-In recent years, I've delved into cloud-based tools like Office 365, Microsoft Entra ID (Azure Active Directory), AirWatch Workspace One Intelligent Hub, and Carbon Black Cloud Endpoint, deepening my involvement in Cybersecurity.
+Recently, I've been exploring cloud-based tools like Office 365, Microsoft Entra ID (Azure Active Directory), AirWatch Workspace One Intelligent Hub, and Carbon Black Cloud Endpoint, which deepened my interest in Cybersecurity.
 
 ## Objective
-My experience in computer science has fueled my interest in cybersecurity. I'm excited to move into this field, targeting roles like Security Operations Center (SOC) Analyst or IAM Analyst. I'm also open to opportunities in Senior Tech Support Engineering.
+Currently, it's challenging to find job opportunities in Cybersecurity due to my limited experience. To gain hands-on skills, I'm actively working on projects and studying using platforms like TryHackme and HackTheBox. I'm eager to transition into roles such as SOC Analyst or IAM Analyst in Cybersecurity. Additionally, I'm open to opportunities in Senior Tech Support Engineering.
 
-This repository showcases my projects and the skills I'm developing. I hope it helps me secure a cybersecurity role and encourages others to gain hands-on experience.
+This repository displays my projects and the skills I'm building. I hope it helps me land a cybersecurity role and inspires others to gain practical experience
 
 ## Skills
 
