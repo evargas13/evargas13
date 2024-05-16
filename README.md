@@ -5,7 +5,7 @@ I started with computer configuration and support studies alongside English. Thi
 
 Freelancing in computer repairs and network setup broadened my skills, allowing me to work extensively with Windows Servers, Networks, MS SQL, and various administration tools like Windows SCCM, Manage Engine Service Desk Plus, Bitdefender Central, Nortel, Avaya IP Phones, and Nice Call Center systems.
 
-Recently, I've been exploring cloud-based tools like Office 365, Microsoft Entra ID (Azure Active Directory), AirWatch Workspace One Intelligent Hub, and Carbon Black Cloud Endpoint, which deepened my interest in Cybersecurity.
+Recently, I've been exploring cloud-based tools like Office 365 Security, Microsoft Entra ID (Azure Active Directory).
 
 ## Objective
 Currently, it's challenging to find job opportunities in Cybersecurity due to my limited experience. To gain hands-on skills, I'm actively working on projects and studying using platforms like TryHackme and HackTheBox. I'm eager to transition into roles such as SOC Analyst or IAM Analyst in Cybersecurity. Additionally, I'm open to opportunities in Senior Tech Support Engineering.
@@ -34,10 +34,7 @@ This repository displays my projects and the skills I'm building. I hope it help
 
 ### Endpoint 
 
-    <img src="https://img.shields.io/badge/-Carbon_Black_Cloud-0C0A00?&style=for-the-badge&logo=Carbon+Black&logoColor=white" />
-   <!-- <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" /> -->
-   <!-- <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" /> -->
-
+[![Carbon Black Cloud](https://img.shields.io/badge/-Carbon_Black_Cloud-0C0A00?&style=for-the-badge&logo=Carbon+Black&logoColor=white)](https://www.vmware.com/products/carbon-black-cloud.html)
 
 ### SIEM
 <div>
