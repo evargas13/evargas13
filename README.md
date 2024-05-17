@@ -1,18 +1,12 @@
 # Hello, I'm Edgar
-I got into technology through games like Prince of Persia and Tetris in the 90s. Movies like Hackers and Swordfish inspired me to dive into computers, eventually leading me to Cybersecurity and Ethical Hacking.
-
-I started with computer configuration and support studies alongside English. This landed me a full-time role in a Call Center, where I honed my technical and customer service skills.
-
-Freelancing in computer repairs and network setup broadened my skills, allowing me to work extensively with Windows Servers, Networks, MS SQL, and various administration tools like Windows SCCM, Manage Engine Service Desk Plus, Bitdefender Central, Nortel, Avaya IP Phones, and Nice Call Center systems.
-
-Recently, I've been exploring cloud-based tools like Office 365 Security, Microsoft Entra ID (Azure Active Directory).
+Back in the 90s, movies like Hackers and Swordfish inspired me to dive into computers, and I discovered hacking and cybersecurity. Over the past 10 years, I have worked as a Tech Support Engineer, which helped me improve my technical and soft skills.
 
 ## Objective
-Currently, it's challenging to find job opportunities in Cybersecurity due to my limited experience. To gain hands-on skills, I'm actively working on projects and studying using platforms like TryHackme and HackTheBox. I'm eager to transition into roles such as SOC Analyst or IAM Analyst in Cybersecurity. Additionally, I'm open to opportunities in Senior Tech Support Engineering.
+Finding job opportunities in cybersecurity has been challenging due to my limited experience in this field. To gain hands-on skills, I'm actively working on projects and studying through platforms like TryHackme and HackTheBox. I'm eager to transition into roles such as SOC Analyst or IAM Analyst, but I'm also open to opportunities in Senior Tech Support Engineering.
 
-This repository displays my projects and the skills I'm building. I hope it helps me land a cybersecurity role and inspires others to gain practical experience
+This repository showcases my projects and the skills I'm building. I hope it helps me land a cybersecurity role and inspires others to gain practical experience.
 
-## Skills
+## Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
@@ -63,25 +57,12 @@ This repository displays my projects and the skills I'm building. I hope it help
     </a>
 </div>
 
-<!-- ### Cloud
-<div>
-    <img src="https://img.shields.io/badge/-Amazon AWS-0078D4?&style=for-the-badge&logo=Microsoft+Azure&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" />
-</div> -->
-
 ## Certifications
-
-[![ISC2 CC Certified](https://img.shields.io/badge/-ISC2_CC_Certified-006400?&style=for-the-badge&logo=ISC2&logoColor=white)](https://www.credly.com/badges/e999d3d7-c809-4505-9e27-983e5c02d025/linked_in_profile)
-  
-
-
-<!-- <img src="https://img.shields.io/badge/-Network%2B-007ACC?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
-<!-- <img src="https://img.shields.io/badge/-A%2B-4D4D4D?&style=for-the-badge&logo=CompTIA&logoColor=white" /> -->
-<!-- <img src="https://img.shields.io/badge/-CDSA-006400?&style=for-the-badge&logoColor=white" /> -->
-<!-- <img src="https://img.shields.io/badge/-CCD-000080?&style=for-the-badge&logoColor=white" /> -->
-
-
-## Projects
-- Detection Lab
-- SOC Automation Project
+<div>
+    <a href="https://www.credly.com/badges/e999d3d7-c809-4505-9e27-983e5c02d025/linked_in_profile">
+        <img src="https://img.shields.io/badge/-ISC2_CC_Certified-006400?&style=for-the-badge&logo=ISC2&logoColor=white"/>
+    </a>
+    <a href="https://www.credly.com/badges/f123f4f6-bff4-440d-9b40-97519cb2d8de/linked_in_profile">
+        <img src="https://img.shields.io/badge/-CompTIA_Security%2B-EE4C2C?&style=for-the-badge&logo=CompTIA&logoColor=white"/>
+    </a>
+</div>
