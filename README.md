@@ -52,9 +52,15 @@ This repository displays my projects and the skills I'm building. I hope it help
 
 ### SIEM
 <div>
-   <!-- <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> -->
-    <img src="https://img.shields.io/badge/-Splunk-F1813F?&style=for-the-badge&logo=Splunk&logoColor=white" />
-   <!-- <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> -->
+     <a href="https://azure.microsoft.com/es-es/products/microsoft-sentinel">
+        <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white"/>
+    </a>
+    <a href="https://www.splunk.com/en_us/products/enterprise-security.html">
+        <img src="https://img.shields.io/badge/-Splunk-F1813F?&style=for-the-badge&logo=Splunk&logoColor=white"/>
+    </a>
+    <a href="https://www.elastic.co/es/security/siem">
+        <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white"/>
+    </a>
 </div>
 
 <!-- ### Cloud
