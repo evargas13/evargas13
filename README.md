@@ -6,11 +6,11 @@ Finding job opportunities in cybersecurity has been challenging due to my limite
 
 This repository showcases my projects and the skills I'm building. I hope it helps me land a cybersecurity role and inspires others to gain practical experience.
 
-## Projects
+## 🛡️ Projects
 
 | Skill                                         | Associated Project         |
 |-----------------------------------------------|----------------------------|
-| Active Directory Lab         | <a href="https://github.com/evargas13/Active-Directory-Lab">Detection Lab</a>|
+| 🕵️ Active Directory Lab         | <a href="https://github.com/evargas13/Active-Directory-Lab">Detection Lab</a>|
 <!--| Network Traffic Monitoring and Attack Detection | <a href="https://google.com">Detection Lab</a>|
     | SIEM Implementation and Log Analysis      | <a href="https://google.com">Detection Lab|
     | Incident Response Planning and Execution      | SOC Automation Lab|
