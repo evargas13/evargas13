@@ -1,5 +1,5 @@
 #  🔒 Hello, I'm Edgar
-Back in the 90s, movies like Hackers and Swordfish inspired me to dive into computers, and I discovered hacking and cybersecurity. Over the past 10 years, I have worked as a Tech Support Engineer, which helped me improve my technical and soft skills. For the last 5 years or so, I have trained and immersed myself in Cybersecurity, focusing especially on what caught my attention from the beginning, defensive security.
+Back in the 90s, movies like Hackers and Swordfish inspired me to dive into computers, and I discovered hacking and cybersecurity. Over the past 10 years, I have worked as a Tech Support Engineer, which helped me improve my technical and soft skills. For the last 3 years or so, I have trained and immersed myself in Cybersecurity, focusing especially on what caught my attention from the beginning, defensive security.
 
 ##  🎯 Objective
 To gain hands-on skills, I'm actively working on projects and studying through platforms like CyberDefenders and TCM. I'm eager to transition into roles such as SOC Analyst or Security Analyst, but I'm also open to opportunities in Senior Tech Support Engineering where I can develop other tech skills.
